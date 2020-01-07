@@ -1,0 +1,97 @@
+CPU,AMD 200GE,55,Power
+CPU,AMD R3 2200G,94,Gaming
+CPU,AMD R5 2400G,160,Everyday
+CPU,AMD R5 1500X,145,School
+CPU,AMD R5 2600,165,Other
+CPU,AMD R5 2600X,210,Power
+CPU,Intel i5 9600K,260,Gaming
+CPU,AMD R7 2700,260,Everyday
+CPU,AMD R7 2700X,305,School
+CPU,Intel i7 8700,330,Other
+CPU,Intel i7 8700K,370,Power
+CPU,Intel i7 9700K,400,Gaming
+CPU,Intel i9 9900K,540,Everyday
+CPU,AMD TR 2920X,650,School
+CPU,AMD TR 2950X,900,Other
+CPU,AMD TR 2970WX,1280,Power
+CPU,AMD TR 2990WX,1700,Gaming
+GPU,RX 560,104,Power
+GPU,GTX 1050,120,Gaming
+GPU,RX 570,140,Everyday
+GPU,RX 580,190,School
+GPU,GTX 1060 6GB,200,Other
+GPU,RX 590,260,Power
+GPU,GTX 1660 Ti,280,Gaming
+GPU,RTX 2060,350,Everyday
+GPU,RTX 2070,500,School
+GPU,RTX 2080,700,Other
+GPU,RTX 2080 Ti,1300,Power
+Motherboard,ASRock B450M-HDV,60,Power
+Motherboard,MSI B450M Bazooka,75,Gaming
+Motherboard,ASRock A320M-HDV,50,Everyday
+Motherboard,ASRock AB350M-HDV,55,School
+Motherboard,ASRock A320M-HDV,50,Other
+Motherboard,ASRock AB350M-HDV,55,Power
+Motherboard,ASRock A320M Pro4,65,Gaming
+Motherboard,ASRock AB350 Pro4,82,Everyday
+Motherboard,MSI B350 PC Mate,91,School
+Motherboard,MSI B450-A Pro,99,Other
+Motherboard,Asus B450 Plus,103,Power
+Motherboard,MSI X470 Gaming Plus,130,Gaming
+Motherboard,GIGABYTE X470 AORUS ULTRA GAMING,135,Gaming
+Motherboard,ASRock X470 Master,135,Everyday
+Motherboard,MSI Z390-A Pro,130,School
+Motherboard,Gigabyte Z390 X,140,Other
+Motherboard,Asus Z390-P,140,Power
+Motherboard,ASUS X470 Pro,160,Gaming
+Motherboard,Gigabyte Z390 SLI,152,Everyday
+Motherboard,Asus Z390 Pro,159,School
+Motherboard,ASRock Z390 EXTREME4,178,Other
+Motherboard,MSI Z390 Carbon,189,Power
+Motherboard,Gigabyte Z390 AORUS PRO.,190,Gaming
+Motherboard,Asus Z390-E Gaming,240,Everyday
+Motherboard,GIGABYTE X399 AORUS PRO.,280,School
+Motherboard,ASRock X399 Taichi,320,Other
+Motherboard,MSI X399 Pro,409,Power
+Motherboard,GIGABYTE X399 AORUS XTREME,430,Gaming
+Motherboard,MSI X399 Creation,530,Everyday
+PSU,EVGA 500B,30,Power
+PSU,Corsair CX450M,50,Gaming
+PSU,EVGA 500B,30,Everyday
+PSU,Corsair CX450M,50,School
+PSU,Corsair CX450M,50,Other
+PSU,SeaSonic M12II 620 Bronze,57,Power
+PSU,SeaSonic G-650,80,Gaming
+PSU,EVGA 650G+,84,Everyday
+PSU,EVGA 650G+,84,School
+PSU,EVGA 750G3,80,Other
+PSU,SeaSonic 750FX,80,Power
+PSU,EVGA 750P2,118,Gaming
+PSU,EVGA 850G3,110,Everyday
+PSU,Corsair HX850,110,School
+PSU,SeaSonic 850PX,120,Other
+PSU,EVGA 850G3,110,Other
+PSU,Corsair HX850,110,Power
+PSU,SeaSonic 850PX,120,Gaming
+PSU,Corsair HX1000i,190,Everyday
+PSU,Seasonic PRIME Ultra 1000W 80+ Platinum,210,School
+PSU,Seasonic Prime 1000 Titanium,260,Other
+Case,Arcadia,33,Power
+Case,Antec GS One,44,Gaming
+Case,Rosewill Challe..,50,Everyday
+Case,Corsair 200R,60,School
+Case,HAF 912,60,Other
+Case,Rosewill Stealt..,70,Other
+Case,NZXT S340,63,Power
+Case,Enthoo Pro,100,Gaming
+Case,NZXT Source 530,105,Everyday
+Case,Enthoo Pro,100,School
+Case,Rosewill Thor V..,100,Other
+Case,Silverstone RV0..,155,Power
+Case,Storm Striker,155,Gaming
+Case,HAF X,180,Everyday
+Case,Dark Base Pro 9..,220,Other
+Case,Enthoo Primo,240,Other
+Case,900D,310,Power
+Case,Cosmos II,350,Gaming
+Case,Enthoo Elite,900,Everyday
