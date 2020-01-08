@@ -34,6 +34,9 @@ gets placed on the motherboard image. Otherwise a message gets displayed to try 
    - The program is connected to database using JDBC. It contains all of the user's credentials, all the parts, and each user's shopping cart
 
 ### Admin option(Not yet implemented)
-   - A user with admin credentials can add or remove a part from the database. He/she can also send and receive messages from the users. An admin can also remove other users form the database 
+   - A user with admin credentials can add, remove, or change the price of a part in the database. He/she can also send and receive messages from the users. An admin can also remove other users form the database. There is also an 'orders' tab, where the admin can see all the orders that the users have placed
 
 ## Future releases
+   - Implement AdminUI, Chat, Research, and Tutorial classes
+   - Create 'orders' table in the database. When the user presses 'save' button in their shopping cart, the table gets updated with patrts that the user has selected
+   - Change the Interactive Test so that the user can see the image being dragged from the image list to the motherboard
