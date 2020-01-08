@@ -1,9 +1,9 @@
 /*Displays a list of all parts
-* A table displays part's number, name, price, type, best use
-* A user can use a search bar to look up the part by its name
-* A user can sort the parts by type, name, price, best use
-* A user can select and add part to the cart and press the 'next'
-* button to go to the Tutorial tab*/
+ * A table displays part's number, name, price, type, best use
+ * A user can use a search bar to look up the part by its name
+ * A user can sort the parts by type, name, price, best use
+ * A user can select and add part to the cart and press the 'next'
+ * button to go to the Tutorial tab*/
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
@@ -139,24 +139,38 @@ class ShopParts extends MainFrame {
         ButtonGroup bg = new ButtonGroup();
 
         JLabel sortLabel = new JLabel("Sort By:");
+        sortLabel.setForeground(Color.white);
+        sortLabel.setFont(defaultBold);
         sidePanel.add(sortLabel);
 
         typeSortButton = new JRadioButton("Type");
+        typeSortButton.setOpaque(false);
+        typeSortButton.setForeground(Color.white);
+        typeSortButton.setFont(defaultBold);
         bg.add(typeSortButton);
         typeSortButton.addActionListener(listener);
         sidePanel.add(typeSortButton);
 
         nameSortButton = new JRadioButton("Name(alphabetically)");
+        nameSortButton.setOpaque(false);
+        nameSortButton.setForeground(Color.white);
+        nameSortButton.setFont(defaultBold);
         bg.add(nameSortButton);
         nameSortButton.addActionListener(listener);
         sidePanel.add(nameSortButton);
 
         priceButton = new JRadioButton("Price");
+        priceButton.setOpaque(false);
+        priceButton.setForeground(Color.white);
+        priceButton.setFont(defaultBold);
         bg.add(priceButton);
         priceButton.addActionListener(listener);
         sidePanel.add(priceButton);
 
         bestUseSortButton = new JRadioButton("Best Use");
+        bestUseSortButton.setOpaque(false);
+        bestUseSortButton.setForeground(Color.white);
+        bestUseSortButton.setFont(defaultBold);
         bg.add(bestUseSortButton);
         bestUseSortButton.addActionListener(listener);
         sidePanel.add(bestUseSortButton);
