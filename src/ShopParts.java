@@ -87,6 +87,7 @@ class ShopParts extends MainFrame {
 
         searchButton = new JButton("Search");
         searchButton.setPreferredSize(new Dimension(140, 50));
+        searchButton.setFont(defaultPlain);
         searchButton.addActionListener(listener);
         searchPanel.add(searchButton);
 
@@ -125,10 +126,14 @@ class ShopParts extends MainFrame {
         bottomPanel.setOpaque(false);
 
         addButton = new JButton("Add to cart");
+        addButton.setPreferredSize(new Dimension(180, 50));
+        addButton.setFont(defaultPlain);
         addButton.addActionListener(listener);
         bottomPanel.add(addButton);
 
         nextButton = new JButton("Next");
+        nextButton.setPreferredSize(new Dimension(140, 50));
+        nextButton.setFont(defaultPlain);
         nextButton.addActionListener(listener);
         bottomPanel.add(nextButton);
 
